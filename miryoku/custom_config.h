@@ -2,8 +2,8 @@
 // https://github.com/manna-harbour/miryoku
 
 
-// #define MIRYOKU_CLIPBOARD_MAC
-// #define MIRYOKU_KLUDGE_SOFT_OFF
+#define MIRYOKU_CLIPBOARD_MAC
+#define MIRYOKU_KLUDGE_SOFT_OFF
 
 
 #define MIRYOKU_LAYER_BASE \

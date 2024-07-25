@@ -24,6 +24,6 @@
       quick-tap-ms = <U_EDIT_KEY_TAPPING_TERM>;
       flavor = "tap-preferred";
       bindings = <&kp>, <&kp>;
-    }
+    };
   };
 };
