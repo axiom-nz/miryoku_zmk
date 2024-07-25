@@ -17,7 +17,7 @@
       flavor = "tap-preferred";
       bindings = <&mo>, <&kp>;
     };
-    u_et: u_mt {
+    u_et: u_et {
       compatible = "zmk,behavior-hold-tap";
       #binding-cells = <2>;
       tapping-term-ms = <U_TAPPING_TERM>;
