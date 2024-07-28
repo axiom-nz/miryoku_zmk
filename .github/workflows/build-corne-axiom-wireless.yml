@@ -1,7 +1,7 @@
 # Copyright 2022 Manna Harbour
 # https://github.com/manna-harbour/miryoku
 
-name: 'Build corne nice_nano display'
+name: 'Build corne axiom wireless display'
 on: workflow_dispatch
 jobs:
   build:
